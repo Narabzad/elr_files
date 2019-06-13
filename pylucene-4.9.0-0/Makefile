@@ -91,7 +91,8 @@ LUCENE=$(LUCENE_SRC)/lucene
 # Be sure to also set JDK['linux2'] in jcc's setup.py to the JAVA_HOME value
 # used below for ANT (and rebuild jcc after changing it).
 PREFIX_PYTHON=/usr
-ANT=JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 /usr/bin/ant
+ANT= /usr/bin/ant
+JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 PYTHON=$(PREFIX_PYTHON)/bin/python
 JCC=$(PYTHON) -m jcc 
 NUM_FILES=8

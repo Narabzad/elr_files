@@ -11,8 +11,8 @@ NORDLYS_DIR = path.dirname(path.abspath(__file__))
 DATA_DIR = path.dirname(path.dirname(path.abspath(__file__))) + "/data"
 OUTPUT_DIR = path.dirname(path.dirname(path.abspath(__file__))) + "/runs"
 
-TERM_INDEX_DIR = "/index_dir/index7_stopped/"
-URI_INDEX_DIR = "/index_dir/index7_only_uri/"
+TERM_INDEX_DIR = "/index_dir/index7_stopped/index7_stopped/"
+URI_INDEX_DIR = "/index_dir/index7_only_uri/index7_only_uri/"
 print "Term index:", TERM_INDEX_DIR
 print "URI index:", URI_INDEX_DIR
 

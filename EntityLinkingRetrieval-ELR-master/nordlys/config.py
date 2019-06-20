@@ -9,7 +9,7 @@ from os import path
 
 NORDLYS_DIR = path.dirname(path.abspath(__file__))
 DATA_DIR = path.dirname(path.dirname(path.abspath(__file__))) + "/data"
-OUTPUT_DIR = path.dirname(path.dirname(path.abspath(__file__))) + "/runs"
+OUTPUT_DIR = path.dirname(path.dirname(path.abspath(__file__))) + "/my_runs"
 
 TERM_INDEX_DIR = "/index_dir/index7_stopped/"
 URI_INDEX_DIR = "/index_dir/index7_only_uri/"

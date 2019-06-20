@@ -94,9 +94,9 @@ class RetrievalELR(Retrieval):
             # write results to output file
             results.write_trec_format(qid, self.config['run_id'], out, self.config['num_docs'])
             #break
-            count=count+1
-            if count >3:
-                break
+            #count=count+1
+            #if count >3:
+            #    break
 
         out.close()
         self._close_index()

@@ -28,7 +28,7 @@ for line in queries:
         entities.append(ann)
         annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention]={}
         annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention].update({"score":ann.score})
-        dbpedia="<dbpedia:"+str(ann.entity_title).replace(' ','_')+">".encode('utf-8')
+        dbpedia=("<dbpedia:"+str(ann.entity_title).replace(' ','_')+">").encode('utf-8')
         annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention].update({"uri":dbpedia})
         print (ann)
         annotaion_json_file[query_no]['interpretations']['0'].update({"prob": 1})

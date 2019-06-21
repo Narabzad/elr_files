@@ -22,5 +22,5 @@ for line in queries:
     query_json_file[query_no] = {}
     query_json_file.update({query_no:query})
 
-with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//query_json_file.txt', 'w') as outfile:
+with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_queries.txt', 'w') as outfile:
     json.dump(query_json_file, outfile , indent=4)

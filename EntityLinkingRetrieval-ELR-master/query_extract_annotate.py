@@ -1,7 +1,7 @@
 import json
 import sys
 
-
+print("extracting queries....")
 queries=[]
 query_file=open(sys.argv[1],'r').readlines()
 for line in query_file:

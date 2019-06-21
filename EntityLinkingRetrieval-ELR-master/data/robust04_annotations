@@ -1,0 +1,1670 @@
+{
+    "350 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Health": {
+                        "score": 0.21871085464954376,
+                        "uri": "<dbpedia:Health_(gaming)>"
+                    },
+                    "Computer Terminals": {
+                        "score": 0.24456869065761566,
+                        "uri": "<dbpedia:Computer_terminal>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Health and Computer Terminals"
+    },
+    "351 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Falkland": {
+                        "score": 0.1874721646308899,
+                        "uri": "<dbpedia:Falkland_Islands>"
+                    },
+                    "petroleum": {
+                        "score": 0.35078513622283936,
+                        "uri": "<dbpedia:Petroleum>"
+                    },
+                    "petroleum exploration": {
+                        "score": 0.32829004526138306,
+                        "uri": "<dbpedia:Hydrocarbon_exploration>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Falkland petroleum exploration"
+    },
+    "352 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "British": {
+                        "score": 0.14481303095817566,
+                        "uri": "<dbpedia:United_Kingdom>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "British Chunnel impact"
+    },
+    "353 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Antarctica": {
+                        "score": 0.6101936101913452,
+                        "uri": "<dbpedia:Antarctica>"
+                    },
+                    "exploration": {
+                        "score": 0.3402095139026642,
+                        "uri": "<dbpedia:Arctic_exploration>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Antarctica exploration"
+    },
+    "354 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "journalist": {
+                        "score": 0.17359194159507751,
+                        "uri": "<dbpedia:Journalism>"
+                    },
+                    "risks": {
+                        "score": 0.11942294239997864,
+                        "uri": "<dbpedia:Risk>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "journalist risks"
+    },
+    "355 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "ocean": {
+                        "score": 0.282712459564209,
+                        "uri": "<dbpedia:Ocean>"
+                    },
+                    "remote sensing": {
+                        "score": 0.48187246918678284,
+                        "uri": "<dbpedia:Remote_sensing>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "ocean remote sensing"
+    },
+    "356 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "postmenopausal": {
+                        "score": 0.3259996175765991,
+                        "uri": "<dbpedia:Menopause>"
+                    },
+                    "estrogen": {
+                        "score": 0.5825983881950378,
+                        "uri": "<dbpedia:Estrogen>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "postmenopausal estrogen Britain"
+    },
+    "357 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "territorial waters": {
+                        "score": 0.38643020391464233,
+                        "uri": "<dbpedia:Territorial_waters>"
+                    },
+                    "dispute": {
+                        "score": 0.23279672861099243,
+                        "uri": "<dbpedia:Macedonia_naming_dispute>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "territorial waters dispute"
+    },
+    "358 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "blood-alcohol": {
+                        "score": 0.1852196753025055,
+                        "uri": "<dbpedia:Blood_alcohol_content>"
+                    },
+                    "fatalities": {
+                        "score": 0.18586134910583496,
+                        "uri": "<dbpedia:Death>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "blood-alcohol fatalities"
+    },
+    "359 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "mutual fund": {
+                        "score": 0.36271870136260986,
+                        "uri": "<dbpedia:Mutual_fund>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "mutual fund predictors"
+    },
+    "360 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "drug legalization": {
+                        "score": 0.3118855357170105,
+                        "uri": "<dbpedia:Drug_liberalization>"
+                    },
+                    "benefits": {
+                        "score": 0.15156157314777374,
+                        "uri": "<dbpedia:Welfare>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "drug legalization benefits"
+    },
+    "361 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "clothing": {
+                        "score": 0.2617761194705963,
+                        "uri": "<dbpedia:Clothing>"
+                    },
+                    "sweatshops": {
+                        "score": 0.34113436937332153,
+                        "uri": "<dbpedia:Sweatshop>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "clothing sweatshops"
+    },
+    "362 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "human smuggling": {
+                        "score": 0.1315789520740509,
+                        "uri": "<dbpedia:People_smuggling>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "human smuggling"
+    },
+    "363 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "transportation": {
+                        "score": 0.17721004784107208,
+                        "uri": "<dbpedia:Transport>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "transportation tunnel disasters"
+    },
+    "364 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "rabies": {
+                        "score": 0.3640776574611664,
+                        "uri": "<dbpedia:Rabies>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "rabies"
+    },
+    "365 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "El Nino": {
+                        "score": 0.3271276652812958,
+                        "uri": "<dbpedia:El_Ni\u00f1o>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "El Nino"
+    },
+    "366 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "cyanide": {
+                        "score": 0.203886017203331,
+                        "uri": "<dbpedia:Hydrogen_cyanide>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "commercial cyanide uses"
+    },
+    "367 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "piracy": {
+                        "score": 0.10254676640033722,
+                        "uri": "<dbpedia:Piracy>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "piracy"
+    },
+    "368 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "in vitro fertilization": {
+                        "score": 0.41431671380996704,
+                        "uri": "<dbpedia:In_vitro_fertilisation>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "in vitro fertilization"
+    },
+    "369 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "anorexia nervosa": {
+                        "score": 0.9538296461105347,
+                        "uri": "<dbpedia:Anorexia_nervosa>"
+                    },
+                    "bulimia": {
+                        "score": 0.7309499979019165,
+                        "uri": "<dbpedia:Bulimia_nervosa>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "anorexia nervosa bulimia"
+    },
+    "370 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "food": {
+                        "score": 0.13282504677772522,
+                        "uri": "<dbpedia:Food>"
+                    },
+                    "drug laws": {
+                        "score": 0.1622295081615448,
+                        "uri": "<dbpedia:Prohibition_of_drugs>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "food/drug laws"
+    },
+    "371 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "health insurance": {
+                        "score": 0.31236863136291504,
+                        "uri": "<dbpedia:Health_insurance>"
+                    },
+                    "holistic": {
+                        "score": 0.25735777616500854,
+                        "uri": "<dbpedia:Holistic_health>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "health insurance holistic"
+    },
+    "372 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Native American": {
+                        "score": 0.7212134003639221,
+                        "uri": "<dbpedia:Native_Americans_in_the_United_States>"
+                    },
+                    "Native American casino": {
+                        "score": 0.5313501358032227,
+                        "uri": "<dbpedia:Native_American_gaming>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Native American casino"
+    },
+    "373 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "encryption": {
+                        "score": 0.2559799253940582,
+                        "uri": "<dbpedia:Cryptography>"
+                    },
+                    "equipment": {
+                        "score": 0.21610398590564728,
+                        "uri": "<dbpedia:Machine>"
+                    },
+                    "export": {
+                        "score": 0.1628562957048416,
+                        "uri": "<dbpedia:Export>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "encryption equipment export"
+    },
+    "374 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Nobel prize": {
+                        "score": 0.41037601232528687,
+                        "uri": "<dbpedia:Nobel_Prize>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Nobel prize winners"
+    },
+    "375 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "hydrogen": {
+                        "score": 0.48894232511520386,
+                        "uri": "<dbpedia:Hydrogen_vehicle>"
+                    },
+                    "hydrogen energy": {
+                        "score": 0.3979933261871338,
+                        "uri": "<dbpedia:Hydrogen_fuel>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "hydrogen energy"
+    },
+    "376 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "World Court": {
+                        "score": 0.25632911920547485,
+                        "uri": "<dbpedia:International_Court_of_Justice>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "World Court"
+    },
+    "377 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "cigar": {
+                        "score": 0.42616039514541626,
+                        "uri": "<dbpedia:Cigar>"
+                    },
+                    "smoking": {
+                        "score": 0.3598910868167877,
+                        "uri": "<dbpedia:Smoking>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "cigar smoking"
+    },
+    "378 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "euro": {
+                        "score": 0.2223547399044037,
+                        "uri": "<dbpedia:Euro>"
+                    },
+                    "opposition": {
+                        "score": 0.14443762600421906,
+                        "uri": "<dbpedia:Opposition_(politics)>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "euro opposition"
+    },
+    "379 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "mainstreaming"
+    },
+    "380 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "obesity": {
+                        "score": 0.47381383180618286,
+                        "uri": "<dbpedia:Obesity>"
+                    },
+                    "medical treatment": {
+                        "score": 0.26036593317985535,
+                        "uri": "<dbpedia:Therapy>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "obesity medical treatment"
+    },
+    "381 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "alternative medicine": {
+                        "score": 0.35111111402511597,
+                        "uri": "<dbpedia:Alternative_medicine>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "alternative medicine"
+    },
+    "382 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "hydrogen": {
+                        "score": 0.5505586862564087,
+                        "uri": "<dbpedia:Hydrogen_vehicle>"
+                    },
+                    "hydrogen fuel": {
+                        "score": 0.455136775970459,
+                        "uri": "<dbpedia:Hydrogen_vehicle>"
+                    },
+                    "automobiles": {
+                        "score": 0.31273525953292847,
+                        "uri": "<dbpedia:Car>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "hydrogen fuel automobiles"
+    },
+    "383 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "mental illness": {
+                        "score": 0.47862309217453003,
+                        "uri": "<dbpedia:Mental_disorder>"
+                    },
+                    "drugs": {
+                        "score": 0.3739893138408661,
+                        "uri": "<dbpedia:Psychoactive_drug>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "mental illness drugs"
+    },
+    "384 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "space station": {
+                        "score": 0.36829525232315063,
+                        "uri": "<dbpedia:Space_station>"
+                    },
+                    "moon": {
+                        "score": 0.33576732873916626,
+                        "uri": "<dbpedia:Moon>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "space station moon"
+    },
+    "385 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "hybrid": {
+                        "score": 0.3494667410850525,
+                        "uri": "<dbpedia:Hybrid_vehicle>"
+                    },
+                    "fuel": {
+                        "score": 0.29407763481140137,
+                        "uri": "<dbpedia:Fuel>"
+                    },
+                    "cars": {
+                        "score": 0.27561119198799133,
+                        "uri": "<dbpedia:Car>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "hybrid fuel cars"
+    },
+    "386 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "teaching": {
+                        "score": 0.24798643589019775,
+                        "uri": "<dbpedia:Education>"
+                    },
+                    "disabled": {
+                        "score": 0.2661515474319458,
+                        "uri": "<dbpedia:Disability>"
+                    },
+                    "children": {
+                        "score": 0.2687022089958191,
+                        "uri": "<dbpedia:Child>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "teaching disabled children"
+    },
+    "387 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "radioactive waste": {
+                        "score": 0.2469135820865631,
+                        "uri": "<dbpedia:Radioactive_waste>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "radioactive waste"
+    },
+    "388 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "organic soil": {
+                        "score": 0.2788461446762085,
+                        "uri": "<dbpedia:Soil>"
+                    },
+                    "soil": {
+                        "score": 0.2827621102333069,
+                        "uri": "<dbpedia:Soil>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "organic soil enhancement"
+    },
+    "389 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "illegal": {
+                        "score": 0.17933289706707,
+                        "uri": "<dbpedia:Law>"
+                    },
+                    "technology transfer": {
+                        "score": 0.2732580304145813,
+                        "uri": "<dbpedia:Technology_transfer>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "illegal technology transfer"
+    },
+    "390 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "orphan drugs": {
+                        "score": 0.22972972691059113,
+                        "uri": "<dbpedia:Orphan_drug>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "orphan drugs"
+    },
+    "391 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "R&D": {
+                        "score": 0.24283401668071747,
+                        "uri": "<dbpedia:Research_and_development>"
+                    },
+                    "drug": {
+                        "score": 0.1800171136856079,
+                        "uri": "<dbpedia:Pharmaceutical_drug>"
+                    },
+                    "prices": {
+                        "score": 0.14175894856452942,
+                        "uri": "<dbpedia:Price>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "R&D drug prices"
+    },
+    "392 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "robotics": {
+                        "score": 0.11531495302915573,
+                        "uri": "<dbpedia:Robotics>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "robotics"
+    },
+    "393 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "mercy killing": {
+                        "score": 0.1745562106370926,
+                        "uri": "<dbpedia:Euthanasia>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "mercy killing"
+    },
+    "394 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "home schooling": {
+                        "score": 0.12704917788505554,
+                        "uri": "<dbpedia:Homeschooling>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "home schooling"
+    },
+    "395 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "tourism"
+    },
+    "396 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "sick building syndrome": {
+                        "score": 0.5,
+                        "uri": "<dbpedia:Sick_building_syndrome>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "sick building syndrome"
+    },
+    "397 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "automobile": {
+                        "score": 0.3663952648639679,
+                        "uri": "<dbpedia:Automobile_(magazine)>"
+                    },
+                    "recalls": {
+                        "score": 0.2888406813144684,
+                        "uri": "<dbpedia:Product_recall>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "automobile recalls"
+    },
+    "398 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Europe": {
+                        "score": 0.13340896368026733,
+                        "uri": "<dbpedia:Europe>"
+                    },
+                    "arsenal": {
+                        "score": 0.294802725315094,
+                        "uri": "<dbpedia:Arsenal>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "dismantling Europe's arsenal"
+    },
+    "399 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "oceanographic vessels": {
+                        "score": 0.20000000298023224,
+                        "uri": "<dbpedia:Research_vessel>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "oceanographic vessels"
+    },
+    "400 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Amazon rain forest": {
+                        "score": 0.2651515007019043,
+                        "uri": "<dbpedia:Amazon_rainforest>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Amazon rain forest"
+    },
+    "401 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "minorities": {
+                        "score": 0.16701821982860565,
+                        "uri": "<dbpedia:Demographics_of_Hungary>"
+                    },
+                    "Germany": {
+                        "score": 0.3650885224342346,
+                        "uri": "<dbpedia:German_Empire>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "foreign minorities, Germany"
+    },
+    "402 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "behavioral genetics": {
+                        "score": 0.3499999940395355,
+                        "uri": "<dbpedia:Behavioural_genetics>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "behavioral genetics"
+    },
+    "403 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "osteoporosis": {
+                        "score": 0.4225352108478546,
+                        "uri": "<dbpedia:Osteoporosis>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "osteoporosis"
+    },
+    "404 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Ireland": {
+                        "score": 0.20790551602840424,
+                        "uri": "<dbpedia:Ireland>"
+                    },
+                    "peace": {
+                        "score": 0.1622454822063446,
+                        "uri": "<dbpedia:Nobel_Peace_Prize>"
+                    },
+                    "peace talks": {
+                        "score": 0.12298224121332169,
+                        "uri": "<dbpedia:Israeli\u2013Palestinian_peace_process>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Ireland, peace talks"
+    },
+    "405 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "cosmic": {
+                        "score": 0.28146180510520935,
+                        "uri": "<dbpedia:Cosmos>"
+                    },
+                    "events": {
+                        "score": 0.27837929129600525,
+                        "uri": "<dbpedia:Event_(relativity)>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "cosmic events"
+    },
+    "406 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Parkinson's disease": {
+                        "score": 0.463701069355011,
+                        "uri": "<dbpedia:Parkinson's_disease>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Parkinson's disease"
+    },
+    "407 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "poaching": {
+                        "score": 0.45267796516418457,
+                        "uri": "<dbpedia:Poaching_(cooking)>"
+                    },
+                    "wildlife": {
+                        "score": 0.18093442916870117,
+                        "uri": "<dbpedia:Wildlife>"
+                    },
+                    "preserves": {
+                        "score": 0.30875977873802185,
+                        "uri": "<dbpedia:Food_preservation>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "poaching, wildlife preserves"
+    },
+    "408 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "tropical": {
+                        "score": 0.5463066697120667,
+                        "uri": "<dbpedia:Tropical_cyclone>"
+                    },
+                    "tropical storms": {
+                        "score": 0.5448328256607056,
+                        "uri": "<dbpedia:Tropical_cyclone>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "tropical storms"
+    },
+    "409 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Pan Am": {
+                        "score": 0.3314058780670166,
+                        "uri": "<dbpedia:Pan_American_World_Airways>"
+                    },
+                    "Pan Am, 103": {
+                        "score": 0.28498172760009766,
+                        "uri": "<dbpedia:Pan_Am_Flight_103>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "legal, Pan Am, 103"
+    },
+    "410 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Schengen agreement": {
+                        "score": 0.5,
+                        "uri": "<dbpedia:Schengen_Agreement>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Schengen agreement"
+    },
+    "411 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "salvaging": {
+                        "score": 0.298765629529953,
+                        "uri": "<dbpedia:Marine_salvage>"
+                    },
+                    "shipwreck": {
+                        "score": 0.41604188084602356,
+                        "uri": "<dbpedia:Shipwreck>"
+                    },
+                    "treasure": {
+                        "score": 0.27904751896858215,
+                        "uri": "<dbpedia:Treasure>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "salvaging, shipwreck, treasure"
+    },
+    "412 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "airport security": {
+                        "score": 0.1265486776828766,
+                        "uri": "<dbpedia:Airport_security>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "airport security"
+    },
+    "413 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "steel": {
+                        "score": 0.5359735488891602,
+                        "uri": "<dbpedia:Steel>"
+                    },
+                    "steel production": {
+                        "score": 0.5130367875099182,
+                        "uri": "<dbpedia:Steel>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "steel production"
+    },
+    "414 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Cuba": {
+                        "score": 0.4868046045303345,
+                        "uri": "<dbpedia:Cuba>"
+                    },
+                    "sugar": {
+                        "score": 0.2387797087430954,
+                        "uri": "<dbpedia:Sugar>"
+                    },
+                    "exports": {
+                        "score": 0.18265782296657562,
+                        "uri": "<dbpedia:Export>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Cuba, sugar, exports"
+    },
+    "415 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "drugs": {
+                        "score": 0.2627054452896118,
+                        "uri": "<dbpedia:Recreational_drug_use>"
+                    },
+                    "Golden Triangle": {
+                        "score": 0.5587477684020996,
+                        "uri": "<dbpedia:Golden_Triangle_(Southeast_Asia)>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "drugs, Golden Triangle"
+    },
+    "416 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Three Gorges Project": {
+                        "score": 0.375,
+                        "uri": "<dbpedia:Three_Gorges_Dam>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Three Gorges Project"
+    },
+    "417 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "creativity"
+    },
+    "418 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "quilts, income"
+    },
+    "419 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "recycle": {
+                        "score": 0.24951520562171936,
+                        "uri": "<dbpedia:Recycling>"
+                    },
+                    "automobile": {
+                        "score": 0.32580697536468506,
+                        "uri": "<dbpedia:Car>"
+                    },
+                    "tires": {
+                        "score": 0.2755356431007385,
+                        "uri": "<dbpedia:Tire>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "recycle, automobile tires"
+    },
+    "420 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "carbon monoxide": {
+                        "score": 0.6604686975479126,
+                        "uri": "<dbpedia:Carbon_monoxide_poisoning>"
+                    },
+                    "carbon monoxide poisoning": {
+                        "score": 0.6185704469680786,
+                        "uri": "<dbpedia:Carbon_monoxide>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "carbon monoxide poisoning"
+    },
+    "421 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "industrial waste": {
+                        "score": 0.5344684720039368,
+                        "uri": "<dbpedia:Industrial_waste>"
+                    },
+                    "waste disposal": {
+                        "score": 0.5478116273880005,
+                        "uri": "<dbpedia:Waste_management>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "industrial waste disposal"
+    },
+    "422 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "art": {
+                        "score": 0.16374137997627258,
+                        "uri": "<dbpedia:Art>"
+                    },
+                    "stolen": {
+                        "score": 0.20924420654773712,
+                        "uri": "<dbpedia:Art_theft>"
+                    },
+                    "forged": {
+                        "score": 0.20210160315036774,
+                        "uri": "<dbpedia:Forgery>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "art, stolen, forged"
+    },
+    "423 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Milosevic": {
+                        "score": 0.41547954082489014,
+                        "uri": "<dbpedia:Slobodan_Milo\u0161evi\u0107>"
+                    },
+                    "Mirjana Markovic": {
+                        "score": 0.8459587097167969,
+                        "uri": "<dbpedia:Mirjana_Markovi\u0107>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Milosevic, Mirjana Markovic"
+    },
+    "424 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "suicides"
+    },
+    "425 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "counterfeiting": {
+                        "score": 0.5955149531364441,
+                        "uri": "<dbpedia:Counterfeit_money>"
+                    },
+                    "counterfeiting money": {
+                        "score": 0.5454545617103577,
+                        "uri": "<dbpedia:Counterfeit_money>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "counterfeiting money"
+    },
+    "426 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "law enforcement": {
+                        "score": 0.2841993570327759,
+                        "uri": "<dbpedia:Police>"
+                    },
+                    "dogs": {
+                        "score": 0.26005035638809204,
+                        "uri": "<dbpedia:Police_dog>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "law enforcement, dogs"
+    },
+    "427 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "UV": {
+                        "score": 0.23895128071308136,
+                        "uri": "<dbpedia:Ultraviolet>"
+                    },
+                    "damage, eyes": {
+                        "score": 0.250802606344223,
+                        "uri": "<dbpedia:Diabetic_retinopathy>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "UV damage, eyes"
+    },
+    "428 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "declining birth rates"
+    },
+    "429 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Legionnaires' disease": {
+                        "score": 0.5,
+                        "uri": "<dbpedia:Legionnaires'_disease>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Legionnaires' disease"
+    },
+    "430 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "killer bee": {
+                        "score": 0.31249329447746277,
+                        "uri": "<dbpedia:Africanized_bee>"
+                    },
+                    "attacks": {
+                        "score": 0.12079904228448868,
+                        "uri": "<dbpedia:September_11_attacks>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "killer bee attacks"
+    },
+    "431 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "robotic": {
+                        "score": 0.36043864488601685,
+                        "uri": "<dbpedia:Robotics>"
+                    },
+                    "technology": {
+                        "score": 0.35539180040359497,
+                        "uri": "<dbpedia:Technology>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "robotic technology"
+    },
+    "432 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "profiling": {
+                        "score": 0.1366666853427887,
+                        "uri": "<dbpedia:Racial_profiling>"
+                    },
+                    "motorists": {
+                        "score": 0.10523947328329086,
+                        "uri": "<dbpedia:Driving>"
+                    },
+                    "police": {
+                        "score": 0.23684370517730713,
+                        "uri": "<dbpedia:Police>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "profiling, motorists, police"
+    },
+    "433 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Greek, philosophy": {
+                        "score": 0.5977294445037842,
+                        "uri": "<dbpedia:Ancient_Greek_philosophy>"
+                    },
+                    "stoicism": {
+                        "score": 0.7719881534576416,
+                        "uri": "<dbpedia:Stoicism>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Greek, philosophy, stoicism"
+    },
+    "434 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Estonia": {
+                        "score": 0.7054890394210815,
+                        "uri": "<dbpedia:Estonia>"
+                    },
+                    "Estonia, economy": {
+                        "score": 0.5744346976280212,
+                        "uri": "<dbpedia:Economy_of_Estonia>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Estonia, economy"
+    },
+    "435 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "curbing population growth"
+    },
+    "436 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "railway accidents"
+    },
+    "437 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "deregulation": {
+                        "score": 0.33041122555732727,
+                        "uri": "<dbpedia:Deregulation>"
+                    },
+                    "gas": {
+                        "score": 0.27945229411125183,
+                        "uri": "<dbpedia:Natural_gas>"
+                    },
+                    "gas, electric": {
+                        "score": 0.21389377117156982,
+                        "uri": "<dbpedia:Hybrid_electric_vehicle>"
+                    },
+                    "electric": {
+                        "score": 0.2687211036682129,
+                        "uri": "<dbpedia:Electricity>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "deregulation, gas, electric"
+    },
+    "438 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "tourism, increase"
+    },
+    "439 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "inventions": {
+                        "score": 0.2963375747203827,
+                        "uri": "<dbpedia:Invention>"
+                    },
+                    "scientific": {
+                        "score": 0.24163176119327545,
+                        "uri": "<dbpedia:Science>"
+                    },
+                    "discoveries": {
+                        "score": 0.27558112144470215,
+                        "uri": "<dbpedia:Discovery_(observation)>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "inventions, scientific discoveries"
+    },
+    "440 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "child labor": {
+                        "score": 0.19730184972286224,
+                        "uri": "<dbpedia:Child_labour>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "child labor"
+    },
+    "441 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Lyme disease": {
+                        "score": 0.5,
+                        "uri": "<dbpedia:Lyme_disease>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Lyme disease"
+    },
+    "442 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "heroic": {
+                        "score": 0.18381367623806,
+                        "uri": "<dbpedia:Epic_poetry>"
+                    },
+                    "acts": {
+                        "score": 0.18444249033927917,
+                        "uri": "<dbpedia:Act_(drama)>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "heroic acts"
+    },
+    "443 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "U.S": {
+                        "score": 0.19369757175445557,
+                        "uri": "<dbpedia:United_States_dollar>"
+                    },
+                    "investment": {
+                        "score": 0.1941533386707306,
+                        "uri": "<dbpedia:Foreign_direct_investment>"
+                    },
+                    "Africa": {
+                        "score": 0.20868265628814697,
+                        "uri": "<dbpedia:Africa>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "U.S., investment, Africa"
+    },
+    "444 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "supercritical fluids": {
+                        "score": 0.1666666716337204,
+                        "uri": "<dbpedia:Supercritical_fluid>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "supercritical fluids"
+    },
+    "445 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "women": {
+                        "score": 0.18108153343200684,
+                        "uri": "<dbpedia:Woman>"
+                    },
+                    "clergy": {
+                        "score": 0.22760610282421112,
+                        "uri": "<dbpedia:Clergy>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "women clergy"
+    },
+    "446 ": {
+        "interpretations": {
+            "0": {
+                "annots": {},
+                "prob": 1
+            }
+        },
+        "query": "tourists, violence"
+    },
+    "447 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "Stirling engine": {
+                        "score": 0.5,
+                        "uri": "<dbpedia:Stirling_engine>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "Stirling engine"
+    },
+    "448 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "ship": {
+                        "score": 0.13790079951286316,
+                        "uri": "<dbpedia:Ship>"
+                    },
+                    "losses": {
+                        "score": 0.12939392030239105,
+                        "uri": "<dbpedia:Profit_(accounting)>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "ship losses"
+    },
+    "449 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "antibiotics": {
+                        "score": 0.129429891705513,
+                        "uri": "<dbpedia:Antibiotics>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "antibiotics ineffectiveness"
+    },
+    "450 ": {
+        "interpretations": {
+            "0": {
+                "annots": {
+                    "King Hussein": {
+                        "score": 0.4425455629825592,
+                        "uri": "<dbpedia:Hussein_of_Jordan>"
+                    },
+                    "peace": {
+                        "score": 0.20057529211044312,
+                        "uri": "<dbpedia:Peace>"
+                    }
+                },
+                "prob": 1
+            }
+        },
+        "query": "King Hussein, peace"
+    }
+}

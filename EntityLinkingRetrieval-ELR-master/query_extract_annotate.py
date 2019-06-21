@@ -16,7 +16,9 @@ for line in query_file:
 query_json_file={}
 
 for line in queries:
-
+    
+    query=line.split(':')[1].rstrip().strip()
+    query_no=line.split(':')[0]
     query_json_file[query_no] = {}
     query_json_file.update({query_no:query})
 

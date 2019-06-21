@@ -6,12 +6,8 @@ tagme.GCUBE_TOKEN = "6db5eee7-8be2-410b-8657-b7ba3e234447-843339462"
 lunch_annotations = tagme.annotate("My favourite meal is Mexican burritos.")
 
 queries=[]
-#query_file=open('','r').readlines()
 
-query_file=open(sys.argv[1],'r').readlines()
-
-
-with open('rb04_q.json') as json_file:
+with open(sys.argv[1]) as json_file:
     data = json.load(json_file)
     for keys,vals in data.items():
         queries.append(keys+":"+vals)

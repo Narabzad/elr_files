@@ -40,7 +40,7 @@ for line in queries:
 
 print(c)
 
-with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_annotations_A.json', 'w') as outfile:
+with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_annotations.json', 'w') as outfile:
     json.dump(annotaion_json_file, outfile , indent=4)
 
 

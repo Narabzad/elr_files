@@ -21,20 +21,21 @@ for line in queries:
     annotaion_json_file[query_no]['interpretations']={}
     annotaion_json_file[query_no]['interpretations']['0']={}
     annotaion_json_file[query_no]['interpretations']['0']['annots']={}
-
-    entities=[]
     lunch_annotations = tagme.annotate(query)
+    
     for ann in lunch_annotations.get_annotations(0.1):
-        entities.append(ann)
-        annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention]={}
-        annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention].update({"score":ann.score})
-        main_cat=str(ann.entity_title).decode("utf-8").replace(u" ", "_").encode("utf-8")
-        main_cat.decode("utf-8").replace(u" ", "_").encode("utf-8")
-        dbpedia=("<dbpedia:"+main_cat+">")
-        annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention].update({"uri":dbpedia})
-        print (ann)
-        annotaion_json_file[query_no]['interpretations']['0'].update({"prob": 1})
-        annotaion_json_file[query_no].update({"query":query})
+        try :
+            main_cat=str(ann.entity_title).decode("utf-8").replace(u" ", "_").encode("utf-8")
+            main_cat.decode("utf-8").replace(u" ", "_").encode("utf-8")
+            annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention]={}
+            annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention].update({"score":ann.score})
+            dbpedia=("<dbpedia:"+main_cat+">")
+            annotaion_json_file[query_no]['interpretations']['0']['annots'][ann.mention].update({"uri":dbpedia})
+            print (ann)
+            annotaion_json_file[query_no]['interpretations']['0'].update({"prob": 1})
+            annotaion_json_file[query_no].update({"query":query})
+        except:
+            print("nashod")
 
 
 

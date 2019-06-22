@@ -13,7 +13,7 @@ with open(sys.argv[1]) as json_file:
         queries.append(keys+":"+vals)
 
 annotaion_json_file = {}
-
+c=0
 for line in queries:
     query=line.split(':')[1].rstrip().strip()
     query_no=line.split(':')[0]
@@ -35,10 +35,10 @@ for line in queries:
             annotaion_json_file[query_no]['interpretations']['0'].update({"prob": 1})
             annotaion_json_file[query_no].update({"query":query})
         except:
-            print("nashod")
+            c=c+1
 
 
-
+print(c)
 
 with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_annotations_A.json', 'w') as outfile:
     json.dump(annotaion_json_file, outfile , indent=4)

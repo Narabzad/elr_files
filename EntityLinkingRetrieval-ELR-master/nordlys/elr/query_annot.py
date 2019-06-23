@@ -45,11 +45,8 @@ class QueryAnnot(object):
     def T(self):
         """Returns all query terms."""
         if self.__T is None:
-            try:
-                analyzed_query = Lucene.preprocess(self.query)
-                self.__T = analyzed_query.split(" ")
-            except:
-                pass
+            analyzed_query = Lucene.preprocess(self.query)
+            self.__T = analyzed_query.split(" ")
         return self.__T
 
     @property

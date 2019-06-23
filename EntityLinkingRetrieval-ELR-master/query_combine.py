@@ -39,7 +39,7 @@ for qno,qts in dq.items():
     data[query_no]['interpretations']['0'].update({"prob": 1})
     data[query_no].update({"query":query})
 
-with open('//elr2//EntityLinkingRetrieval-ELR-master//data//A_annotate.txt', 'w') as outfile:
+with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_annotations.json', 'w') as outfile:
     json.dump(data, outfile , indent=4)
-with open('//elr2//EntityLinkingRetrieval-ELR-master//data//A_query.txt', 'w') as outfile:
+with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_queries.json', 'w') as outfile:
     json.dump(dq, outfile , indent=4)

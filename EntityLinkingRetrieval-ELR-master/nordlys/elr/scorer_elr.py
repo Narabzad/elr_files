@@ -310,7 +310,6 @@ class ScorerFSDM(ScorerMRF):
                 p_t_d = self.get_p_t_d(t, self.get_field_weights(self.TERM, t), doc_id)
                 if p_t_d != 0:
                     p_T_d += math.log(p_t_d)
-
         p_O_d = 0
         if self.lambda_O != 0:
             for b in self.bigrams:

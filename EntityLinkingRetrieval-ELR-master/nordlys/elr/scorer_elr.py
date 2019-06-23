@@ -306,10 +306,13 @@ class ScorerFSDM(ScorerMRF):
 
         p_T_d = 0
         if self.lambda_T != 0:
-            for t in self.T:
-                p_t_d = self.get_p_t_d(t, self.get_field_weights(self.TERM, t), doc_id)
-                if p_t_d != 0:
-                    p_T_d += math.log(p_t_d)
+            if self.__T is None:
+                print("line 309 gir kard ")
+            else:
+                for t in self.T:
+                    p_t_d = self.get_p_t_d(t, self.get_field_weights(self.TERM, t), doc_id)
+                    if p_t_d != 0:
+                        p_T_d += math.log(p_t_d)
 
         p_O_d = 0
         if self.lambda_O != 0:

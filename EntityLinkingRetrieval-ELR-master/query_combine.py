@@ -21,23 +21,24 @@ query_json_file={}
 for qno,qts in dq.items():
     query=qts
     query_no=qno
-    data[query_no] = {}
-    data[query_no]['interpretations']={}
-    data[query_no]['interpretations']['0']={}
-    data[query_no]['interpretations']['0']['annots']={}
     lunch_annotations = tagme.annotate(query)
-    for ann in lunch_annotations.get_annotations(0.1):
-        try:
-            dbpedia = "<dbpedia:" + str(ann.entity_title).replace(' ', '_') + ">"
-            done=1
-        except:
-            done=0
-        if done==1:
-            data[query_no]['interpretations']['0']['annots'][ann.mention]={}
-            data[query_no]['interpretations']['0']['annots'][ann.mention].update({"score":ann.score})
-            data[query_no]['interpretations']['0']['annots'][ann.mention].update({"uri":dbpedia})
-    data[query_no]['interpretations']['0'].update({"prob": 1})
-    data[query_no].update({"query":query})
+    if lunch_annotations is not None:
+        data[query_no] = {}
+        data[query_no]['interpretations']={}
+        data[query_no]['interpretations']['0']={}
+        data[query_no]['interpretations']['0']['annots']={}
+        for ann in lunch_annotations.get_annotations(0.1):
+            try:
+                dbpedia = "<dbpedia:" + str(ann.entity_title).replace(' ', '_') + ">"
+                done=1
+            except:
+                done=0
+            if done==1:
+                data[query_no]['interpretations']['0']['annots'][ann.mention]={}
+                data[query_no]['interpretations']['0']['annots'][ann.mention].update({"score":ann.score})
+                data[query_no]['interpretations']['0']['annots'][ann.mention].update({"uri":dbpedia})
+        data[query_no]['interpretations']['0'].update({"prob": 1})
+        data[query_no].update({"query":query})
 
 with open('//elr_files//EntityLinkingRetrieval-ELR-master//data//extracted_annotations.json', 'w') as outfile:
     json.dump(data, outfile , indent=4)

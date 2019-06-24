@@ -16,13 +16,18 @@ lines=query_file.readlines()
 if '<top>' in lines[0]:
     query_number=''
     for line in lines:
+
         if'<num>' in line :
             query_number= line.split(':')[1].rstrip().strip()
         if'<title>' in line :
             query=line.replace('<title>','').strip()
+            if query=='':
+                query=line
+                query=lines[l+1].strip()
             dq[query_number]=query
             query_number=''
             query=''
+        l=l+1
 elif ':' in lines[0]:
     for line in lines:
         query_number = line.split(':')[0].rstrip().strip()

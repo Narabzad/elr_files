@@ -11,12 +11,12 @@ query_file=open(sys.argv[1],'r')
 
 dq = {}
 data = {}
+l=0
 lines=query_file.readlines()
 
 if '<top>' in lines[0]:
     query_number=''
     for line in lines:
-
         if'<num>' in line :
             query_number= line.split(':')[1].rstrip().strip()
         if'<title>' in line :

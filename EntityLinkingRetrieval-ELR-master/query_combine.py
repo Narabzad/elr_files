@@ -7,17 +7,28 @@ logger.disabled = True
 
 tagme.GCUBE_TOKEN = "6db5eee7-8be2-410b-8657-b7ba3e234447-843339462"
 query_file=open(sys.argv[1],'r').readlines()
+
+
 dq = {}
-data={}
-query_number=''
-for line in query_file:
-    if'<num>' in line :
-        query_number= line.split(':')[1].rstrip().strip()
-    if'<title>' in line :
-        query=line.replace('<title>','').strip()
-        dq[query_number]=query
-        query_number=''
-        query=''
+data = {}
+lines=query_file.readlines()
+
+if '<top>' in lines[0]:
+    query_number=''
+    for line in lines:
+        if'<num>' in line :
+            query_number= line.split(':')[1].rstrip().strip()
+        if'<title>' in line :
+            query=line.replace('<title>','').strip()
+            dq[query_number]=query
+            query_number=''
+            query=''
+elif ':' in lines[0]:
+    for line in lines:
+        query_number = line.split(':')[0].rstrip().strip()
+        query = line.split(':')[1].strip().rstrip()
+        dq[query_number] = query
+
 annotaion_json_file = {}
 query_json_file={}
 

@@ -1,6 +1,9 @@
 import tagme
 import json
 import sys 
+import logging
+logger = logging.getLogger()
+logger.disabled = True
 
 tagme.GCUBE_TOKEN = "6db5eee7-8be2-410b-8657-b7ba3e234447-843339462"
 query_file=open(sys.argv[1],'r').readlines()

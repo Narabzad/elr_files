@@ -47,7 +47,7 @@ from org.apache.lucene.search.similarities import LMDirichletSimilarity
 from org.apache.lucene.store import SimpleFSDirectory
 from org.apache.lucene.util import BytesRefIterator
 from org.apache.lucene.util import Version
-#from org.apache.lucene.index import SlowCompositeReaderWrapper
+from org.apache.lucene.index import SlowCompositeReaderWrapper
 
 # has java VM for Lucene been initialized
 lucene_vm_init = False
